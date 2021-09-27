@@ -14,6 +14,8 @@ export const Fondo = styled.div`
     flex-direction: column;
     justify-content: center;
     align-items: center;
+
+    
 `
 
 export const Grafic = styled.img`
@@ -51,10 +53,10 @@ export const Bienvenido = styled.div`
         font-style: normal;
         font-weight: normal;
         font-size: 18px;
-        line-height: 14px;
+        line-height: 16px;
         /* identical to box height */
-
-
+        text-align: center;
+       
         color:  ${props => props.theme.colorLetras};
     }
     @media screen and (min-width: 768px) {
@@ -62,9 +64,9 @@ export const Bienvenido = styled.div`
         font-style: normal;
         font-weight: normal;
         font-size: 18px;
-        line-height: 14px;
+        line-height: 17px;
         /* identical to box height */
-
+        text-align: left;
 
         color:  ${props => props.theme.colorLetras};
 
@@ -74,9 +76,9 @@ export const Bienvenido = styled.div`
         font-style: normal;
         font-weight: normal;
         font-size: 18px;
-        line-height: 14px;
+        line-height: 17px;
         /* identical to box height */
-
+        text-align: left;
 
         color:  ${props => props.theme.colorLetras};
     }
@@ -85,7 +87,7 @@ export const Bienvenido = styled.div`
         font-style: normal;
         font-weight: normal;
         font-size: 18px;
-        line-height: 14px;
+        line-height: 18px;
         /* identical to box height */
         text-align: left;
 
@@ -275,7 +277,7 @@ export const Copy = styled.div`
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
-    line-height: 15px;
+    
     /* identical to box height */
     pointer-events: none;
 
@@ -286,9 +288,10 @@ export const Copy = styled.div`
         font-style: normal;
         font-weight: normal;
         font-size: 16px;
-        line-height: 15px;
+        line-height: 17px;
         /* identical to box height */
-        width: 250px;
+        
+        width: 260px;
 
         color:  ${props => props.theme.colorLetras};
     }
@@ -320,7 +323,7 @@ export const Copy = styled.div`
         font-style: normal;
         font-weight: normal;
         font-size: 16px;
-        line-height: 15px;
+        line-height: 18px;
         /* identical to box height */
         width: 250px;
         
@@ -332,7 +335,8 @@ export const TextCont = styled.div`
     
     @media screen and (max-width: 768px) {
         display: flex;
-
+        background-color:  ${props => props.theme.colorFondo};    
+       
     }
     @media screen and (min-width: 993px) {
         display: none; 
@@ -382,10 +386,11 @@ export const Ilus = styled.img`
 
 export const CopyCont = styled.div`
     width: 100%;
-    height: 150px;
+    
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     align-items: flex-start;
     padding: 15px;
+   
 `

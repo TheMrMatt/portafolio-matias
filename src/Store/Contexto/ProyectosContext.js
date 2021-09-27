@@ -62,19 +62,19 @@ const initialState = {
             titulo: 'Contexto',
             id: '01',
             tecnologia: ['React.js','Mongo Db', 'Node.js','Express'],
-            descripcion: `Este proyecto es un sitio web de noticias.
-            El objetivo de este proyecto fue hacer una app con el stack MERN, en el cual tuvieran distintos tipos de usuarios con distintos tipos de accesos y privilegios.
-            El mismo cuenta con 3 tipos de usuarios, el normal que serian los usuarios comunes, el autor que tiene acceso al dashboard donde puede publicar un articulo o editar los articulos que sean de su autoria. Por ultimo esta el usuario admin que puede publicar y editar cualquier articulo sin importar si no es de su autoria, tambien puede editar las portadas de cada seccion a su gusto. `,
+            descripcion: `Este proyecto es un sitio web de noticias. 
+            El objetivo de este proyecto fue hacer una app con el stack MERN, en el cual tuvieran distintos tipos de usuarios con distintos tipos de accesos y privilegios. 
+            El mismo cuenta con 3 tipos de usuarios, el normal que serían los usuarios comunes, el autor que tiene acceso al dashboard donde puede publicar un artículo o editar los artículos que sean de su autoría. Por último está el usuario admin que puede publicar y editar cualquier articulo sin importar si no es de su autoría, también puede editar las portadas de cada sección a su gusto.  `,
             imgDesk: [Contexto1, Contexto2, Contexto3, Contexto4, Contexto5, Contexto6],
             imgMobile: [MContexto1, MContexto2, MContexto3, MContexto4, MContexto5, MContexto6],
             imgFigma: [FContexto1, FContexto2, FContexto3, FContexto4, FContexto5, FContexto6, FContexto7],
             link: ''
         },
         {
-            titulo: `El lobo de wallstreet`,
+            titulo: `El lobo de Wall Street `,
             id: '02',
             tecnologia: ['React.js','Gspa','JavaScript'],
-            descripcion: `Este proyecto es una mini experiencia de la pelicula El lobo de Wall street, la cual tiene como objetivo de mostrar la informacion de la pelicula de una manera distinta.`,
+            descripcion: `Este proyecto es una mini experiencia de la película El lobo de Wall street, la cual tiene como objetivo de mostrar la información de la película de una manera distinta.`,
             imgDesk: [Lobo1, Lobo2, Lobo3, Lobo4, Lobo5],
             imgMobile: [MLobo1, MLobo2, MLobo3, MLobo4, MLobo5, MLobo6, MLobo7],
             imgFigma: [FLobo1, FLobo2, FLobo3, FLobo4],
@@ -84,7 +84,7 @@ const initialState = {
             titulo: 'Doritos',
             id: '03',
             tecnologia: ['React.js','Three.js','JavaScript'],
-            descripcion: `Este proyecto es un sitio web informativo del producto Doritos. En el cual la presentacion del producto es en un escenario 3d. `,
+            descripcion: `Este proyecto es un sitio web informativo del producto Doritos. En el cual la presentación del producto es en un escenario 3d.  `,
             imgDesk: [Doritos1,Doritos2,Doritos3,Doritos4,Doritos5,Doritos6],
             imgMobile: [MDoritos1, MDoritos2, MDoritos3, MDoritos4, MDoritos5],
             imgFigma: [FDoritos1, FDoritos2, FDoritos3, FDoritos4],

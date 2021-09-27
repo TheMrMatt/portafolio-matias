@@ -1,5 +1,5 @@
 .glitch {
-    font-size: 7rem;
+    font-size: 40px;
     
     text-transform: uppercase;
     position: relative;
@@ -101,7 +101,7 @@
   
     @media screen and (min-width: 320px) {
         .glitch{
-            font-size: 2.5em;
+            font-size: 2.2em;
         }
         
    
@@ -115,13 +115,14 @@
     }
     @media screen and (min-width: 993px) {
         .glitch{
-            font-size: 6em;
+            font-size: 5em;
         }
         
     }
+   
     @media screen and (min-width: 1200px) {
         .glitch{
-            font-size:9em;
+            font-size:6em;
         }
         
     }

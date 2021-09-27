@@ -175,26 +175,26 @@ export const Texto = styled.div`
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
-    line-height: 15px;
+    
     pointer-events: none;
     color: ${props => props.theme.colorLetras};
     @media screen and (min-width: 320px) {
         width: 90%;
-
+        line-height: 17px;
     }
     @media screen and (min-width: 768px) {
        
         width: 90%;
-
+        line-height: 17px;
     }
     @media screen and (min-width: 993px) {
         width: 90%;
-
+        line-height: 17px;
 
     }
     @media screen and (min-width: 1200px) {
         width: 90%;
-
+        line-height: 18px;
 
     }
 `

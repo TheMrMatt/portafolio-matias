@@ -136,7 +136,7 @@ export const Desarrollo = styled.div`
     font-style: normal;
     font-weight: normal;
     width: 100%;
-    line-height: 21px;
+    
     letter-spacing: 0.155em;
     pointer-events: none;
     color: ${props => props.theme.colorLetras};
@@ -145,17 +145,19 @@ export const Desarrollo = styled.div`
 
     @media screen and (min-width: 320px) {
         font-size: 16px;
-
+        line-height: 21px;
     }
     @media screen and (min-width: 768px) {
         font-size: 18px;
+        line-height: 21px;
     }
     @media screen and (min-width: 993px) {
         font-size: 20px;
+        line-height: 21px;
     }
     @media screen and (min-width: 1200px) {
         font-size: 20px;
-        
+        line-height: 21px;    
     }
     
 `

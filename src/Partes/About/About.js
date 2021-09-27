@@ -8,23 +8,23 @@ const About = ({imagen}) => {
             <SectionInverse>
                 
                 <Col1>
-                    <Texto>
-                        Hola de nuevo! me gustaria hablarte un poco de mi. Tengo 23 años y actualmente vivo en Tucuman, Argentina. 
-                        Ademas de dedicarme al desarrollo Frontend soy estudiante de Ingenieria Informatica en la Universidad Santo Tomas de Aquino.
-                        Me apasiona el diseño web, me gusta ser creativo con mis diseños e intento innovar siempre con el objetivo de darle una experiencia unica al usuario.
-                        Al no tener experiencia laboral en el sector decidi crear los proyectos de este portafolio. Cada proyecto tiene una planificacion previa con un tiempor limite de desarrollo, tareas diarias, una maqueta en Figma. Me puse el desafio de trabajar como si fuera proyectos reales con clientes reales.
-                        Espero que sea de tu agrado mi portafolio, cualquier feedback es bienvenido!
-                    </Texto>
+                        <Texto>
+                                Tengo 23 años y actualmente vivo en Tucumán, Argentina.  
+                                Además de dedicarme al desarrollo Frontend soy estudiante de Ingeniería Informática en la Universidad del Norte Santo Tomas de Aquino.<br/>
+                                Me apasiona el diseño web, me gusta ser creativo con mis diseños e intento innovar siempre con el objetivo de darle una experiencia única al usuario.<br/>
+                                Por mi cuenta he diseñado diferentes proyectos a modo de muestra de lo que puedo llegar a hacer. Cada proyecto tiene una planificación previa con un tiempo limite de desarrollo, tareas diarias, una maqueta en Figma. Me puse el desafío de trabajar como si fuera proyectos reales con clientes reales.<br/> 
+                                Espero que sea de tu agrado mi portafolio, cualquier feedback es bienvenido!
+                        </Texto>
                 </Col1>
                 <Col2>
                     <Wrap>
                         <TextoCont>
                             <Texto>
-                                Hola de nuevo! me gustaria hablarte un poco de mi. Tengo 23 años y actualmente vivo en Tucuman, Argentina. 
-                                Ademas de dedicarme al desarrollo Frontend soy estudiante de Ingenieria Informatica en la Universidad Santo Tomas de Aquino.
-                                Me apasiona el diseño web, me gusta ser creativo con mis diseños e intento innovar siempre con el objetivo de darle una experiencia unica al usuario.
-                                Al no tener experiencia laboral en el sector decidi crear los proyectos de este portafolio. Cada proyecto tiene una planificacion previa con un tiempor limite de desarrollo, tareas diarias, una maqueta en Figma. Me puse el desafio de trabajar como si fuera proyectos reales con clientes reales.
-                                Espero que sea de tu agrado mi portafolio, cualquier feedback es bienvenido!
+                                    Tengo 23 años y actualmente vivo en Tucumán, Argentina.  
+                                    Además de dedicarme al desarrollo Frontend soy estudiante de Ingeniería Informática en la Universidad del Norte Santo Tomas de Aquino.<br/>
+                                    Me apasiona el diseño web, me gusta ser creativo con mis diseños e intento innovar siempre con el objetivo de darle una experiencia única al usuario.<br/>
+                                    Por mi cuenta he diseñado diferentes proyectos a modo de muestra de lo que puedo llegar a hacer. Cada proyecto tiene una planificación previa con un tiempo limite de desarrollo, tareas diarias, una maqueta en Figma. Me puse el desafío de trabajar como si fuera proyectos reales con clientes reales.<br/> 
+                                    Espero que sea de tu agrado mi portafolio, cualquier feedback es bienvenido!
                             </Texto>
                         </TextoCont>
 

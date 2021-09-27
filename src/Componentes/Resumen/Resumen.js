@@ -10,7 +10,7 @@ const Resumen = ({data, link}) => {
                     <Desarrollo>
                         {data}
                     </Desarrollo>
-                    <Link href={link}>{link}</Link>
+                    <Link href={link}>Link: {link}</Link>
                 </Res>
                 <Ilus>
                     

@@ -18,13 +18,11 @@ const HeaderHome = ({imagen, letra, fondo}) => {
                         <span aria-hidden="true">
                             MATIAS<br/>
                                   <br/>
-                                  <br/>
-                                  <br/>
+                                  <br/>  
                                   
                             ROJAS      
                         </span>
                             MATIAS<br/>
-                                  <br/>
                                   <br/>
                                   <br/>
                                   
@@ -33,20 +31,20 @@ const HeaderHome = ({imagen, letra, fondo}) => {
                             MATIAS<br/>
                                   <br/>
                                   <br/>
-                                  <br/>
                                   
                             ROJAS 
                         </span>
                     </h1>
                         
                     </MatiasCont>
-                    <TextCont><Copy>Soy Matias Rojas desarrollador Frontend, mi objetivo es crear diseños webs creativos que den al usuario una experiencia unica.</Copy></TextCont>
+                    <TextCont><Copy>Soy Matías Rojas, desarrollador Frontend.<br/> Mi objetivo es crear diseños web creativos que den al usuario una experiencia única.</Copy></TextCont>
                     
                 </Fondo>
                 <Lateral>
                     <CopyCont>
                         <Bienvenido>Bienvenido a mi portafolio!</Bienvenido>
-                        <Copy>Soy Matias Rojas desarrollador Frontend, mi objetivo es crear diseños webs creativos que den al usuario una experiencia unica.</Copy>
+                        
+                        <Copy>Soy Matías Rojas, desarrollador Frontend.<br/> Mi objetivo es crear diseños web creativos que den al usuario una experiencia única.</Copy>
                     </CopyCont>
                     <Asteriscos>
                         <Ilus src={imagen}/>
